@@ -1,0 +1,6 @@
+{
+  "name": "routing-exp",
+  "short_name": "routing-exp",
+  "start_url": "/",
+  "display": "standalone"
+}
